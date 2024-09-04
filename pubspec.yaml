@@ -9,6 +9,7 @@ environment:
 dependencies:
   http: ^1.1.0
   html: ^0.15.4
+  iconscout_downloader: ^0.0.1
 
 dev_dependencies:
   lints: ^2.0.0
